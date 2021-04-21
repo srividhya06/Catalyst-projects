@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "demo_1_function",
+      "Listen"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
